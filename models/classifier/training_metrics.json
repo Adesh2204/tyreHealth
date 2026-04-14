@@ -1,0 +1,13 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "train_samples": 288,
+  "val_samples": 72,
+  "classes": [
+    "Good",
+    "Worn",
+    "Critical"
+  ],
+  "best_val_accuracy": 1.0
+}
