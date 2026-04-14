@@ -11,7 +11,7 @@
 </p>
 
 <p>
-A production-grade <strong>Computer Vision</strong> pipeline that detects tyres in real time, classifies their health condition, analyses tread wear at the groove level, identifies punctures and flats, and predicts remaining safe driving distance — all served through an interactive Streamlit dashboard.
+A production-grade <strong>Computer Vision</strong> pipeline that detects tyres in real time, classifies their health condition, analyses tread wear at the groove level, identifies punctures and flats, and predicts remaining safe driving distance, all served through an interactive Streamlit dashboard.
 </p>
 
 </div>
